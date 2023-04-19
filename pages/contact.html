@@ -1,31 +1,43 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Contact Us</title>
-    <link rel="stylesheet" type="text/css" href="../style.css">
-</head>
-<body>
+  <head>
+    <title>Contacts - Lab Result Tracker</title>
+  </head>
+  <body>
     <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="services.html">Services</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-            </ul>
-        </nav>
+      <h1>Contacts</h1>
+      <nav>
+        <a href="/">Home</a>
+        <a href="/results">Results</a>
+        <a href="/settings">Settings</a>
+      </nav>
     </header>
     <main>
-        <h1>Contact Us</h1>
-        <p>For any inquiries or questions, please contact us at:</p>
-        <ul>
-            <li>Email: info@tracklabs.com</li>
-            <li>Phone: 555-555-5555</li>
-            <li>Address: 123 Main St, Anytown USA</li>
-        </ul>
+      <h2>Get in touch with us</h2>
+      <p>
+        If you have any questions or feedback, please don't hesitate to contact us using the form below.
+      </p>
+      <form>
+        <label>
+          Name:
+          <input type="text" name="name" />
+        </label>
+        <br />
+        <label>
+          Email:
+          <input type="email" name="email" />
+        </label>
+        <br />
+        <label>
+          Message:
+          <textarea name="message" rows="5"></textarea>
+        </label>
+        <br />
+        <button type="submit">Submit</button>
+      </form>
     </main>
     <footer>
-        <p>&copy; 2023 TrackLabs. All rights reserved.</p>
+      <p>Lab Result Tracker &copy; 2023</p>
     </footer>
-</body>
+  </body>
 </html>
