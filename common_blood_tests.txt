@@ -1,0 +1,51 @@
+List of common blood tests and their purposes:
+
+1. Complete Blood Count (CBC): This test measures the number of red blood cells, white blood cells, and platelets in the blood. It can help diagnose anemia, infections, and blood disorders.
+
+2. Basic Metabolic Panel (BMP): This test measures the levels of electrolytes, glucose, and kidney function markers in the blood. It can help diagnose kidney disease, diabetes, and other metabolic disorders.
+
+3. Comprehensive Metabolic Panel (CMP): This test includes all the markers in the BMP, as well as liver function markers. It can help diagnose liver disease, gallbladder disease, and other metabolic disorders.
+
+4. Lipid Panel: This test measures the levels of cholesterol and triglycerides in the blood. It can help diagnose and monitor heart disease risk.
+
+5. Thyroid Function Tests: These tests measure the levels of thyroid hormones in the blood. They can help diagnose thyroid disorders such as hypothyroidism and hyperthyroidism.
+
+6. Coagulation Tests: These tests measure the blood's ability to clot. They can help diagnose bleeding disorders and monitor the effectiveness of blood-thinning medications.
+
+7. Blood Glucose Tests: These tests measure the level of glucose (sugar) in the blood. They can help diagnose and monitor diabetes.
+
+8. Vitamin D Test: This test measures the level of vitamin D in the blood. It can help diagnose vitamin D deficiency, which can lead to weakened bones and other health problems.
+
+9. Iron Panel: This test measures the levels of iron, ferritin, and other markers of iron metabolism in the blood. It can help diagnose iron deficiency anemia and other conditions related to iron metabolism.
+
+10. Erythrocyte Sedimentation Rate (ESR): This test measures the rate at which red blood cells settle in a test tube over time. It can help diagnose inflammation and monitor the effectiveness of treatment.
+
+11. C-reactive Protein (CRP): This test measures the level of CRP, a marker of inflammation, in the blood. It can help diagnose and monitor infections, autoimmune diseases, and other conditions associated with inflammation.
+
+12. Blood Culture: This test is used to detect the presence of bacteria or fungi in the blood. It can help diagnose blood infections and guide appropriate treatment.
+
+13. HbA1c: This test measures the average level of blood sugar over the past 2-3 months. It is primarily used to diagnose and monitor diabetes.
+
+14. Prothrombin Time (PT) and International Normalized Ratio (INR): These tests measure the blood's ability to clot and monitor the effectiveness of blood-thinning medications. They are commonly used in people taking warfarin and other anticoagulants.
+
+15. Hepatitis Panel: This test measures the presence of antibodies to various types of hepatitis viruses in the blood. It can help diagnose and monitor hepatitis infections.
+
+16. Complete Urinalysis: This test examines the physical, chemical, and microscopic properties of urine. It can help diagnose urinary tract infections, kidney disease, and other conditions related to the urinary system.
+
+17. B-type Natriuretic Peptide (BNP) Test: This test measures the level of BNP in the blood, a hormone released by the heart in response to stress or damage. It can help diagnose and monitor heart failure.
+
+18. Human Immunodeficiency Virus (HIV) Test: This test measures the presence of HIV antibodies and antigens in the blood. It can help diagnose HIV infection and monitor the effectiveness of treatment.
+
+19. Lactate Dehydrogenase (LDH) Test: This test measures the level of LDH, an enzyme found in many body tissues, in the blood. Elevated levels can indicate tissue damage or disease, such as hemolysis, liver disease, or cancer.
+
+20. Antinuclear Antibody (ANA) Test: This test measures the presence of ANAs in the blood, which are antibodies that target the body's own cells. It can help diagnose autoimmune diseases, such as lupus and rheumatoid arthritis.
+
+21. Rheumatoid Factor (RF) Test: This test measures the level of RF, an antibody that targets the body's own cells, in the blood. It can help diagnose rheumatoid arthritis and other autoimmune diseases.
+
+22. Creatine Kinase (CK) Test: This test measures the level of CK, an enzyme found primarily in muscles, in the blood. Elevated levels can indicate muscle damage or disease, such as muscular dystrophy or a heart attack.
+
+23. D-dimer Test: This test measures the level of D-dimer, a protein fragment that forms during blood clot breakdown, in the blood. Elevated levels can indicate the presence of a blood clot, such as deep vein thrombosis or pulmonary embolism.
+
+24. Homocysteine Test: This test measures the level of homocysteine, an amino acid, in the blood. Elevated levels can be associated with an increased risk of heart disease, stroke, and blood vessel disease.
+
+25. Folate and Vitamin B12 Test: These tests measure the levels of folate and vitamin B12 in the blood. They can help diagnose deficiencies, which can lead to anemia and other health problems.

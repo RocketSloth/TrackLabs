@@ -1,0 +1,6 @@
+File Operation Logger write: web_tech_summary.txt
+write: common_blood_tests.txt
+write: popular_programming_languages.txt
+write: TrackLabs/index.html
+write: TrackLabs/style.css
+write: requirements.txt
