@@ -1,0 +1,19 @@
+Unsplash:
+- Pricing: https://unsplash.com/pricing
+- Licensing: https://unsplash.com/license
+- Quality of images: https://unsplash.com/collections
+
+Pexels:
+- Pricing: https://www.pexels.com/pricing/
+- Licensing: https://www.pexels.com/license/
+- Quality of images: https://www.pexels.com/popular-searches/
+
+Pixabay:
+- Pricing: https://pixabay.com/service/license/
+- Licensing: https://pixabay.com/service/terms/#license
+- Quality of images: https://pixabay.com/images/search/
+
+Getty Images:
+- Pricing: https://www.gettyimages.com/pricing/
+- Licensing: https://www.gettyimages.com/license/
+- Quality of images: https://www.gettyimages.com/photos
